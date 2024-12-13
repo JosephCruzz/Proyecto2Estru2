@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/DispositivoDeBloques_JOSEPHCRUZ22151086.dir/main.cpp.o CMakeFiles/DispositivoDeBloques_JOSEPHCRUZ22151086.dir/BlockDevice.cpp.o CMakeFiles/DispositivoDeBloques_JOSEPHCRUZ22151086.dir/FileSystem.cpp.o -o DispositivoDeBloques_JOSEPHCRUZ22151086 

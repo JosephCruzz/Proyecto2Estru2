@@ -1,0 +1,3 @@
+/home/joseph/Proyects/DispositivoDeBloques_JOSEPHCRUZ22151086/build/CMakeFiles/DispositivoDeBloques_JOSEPHCRUZ22151086.dir
+/home/joseph/Proyects/DispositivoDeBloques_JOSEPHCRUZ22151086/build/CMakeFiles/edit_cache.dir
+/home/joseph/Proyects/DispositivoDeBloques_JOSEPHCRUZ22151086/build/CMakeFiles/rebuild_cache.dir
